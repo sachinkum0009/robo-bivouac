@@ -12,4 +12,3 @@ nav2_msgs = "*"
 [[bin]]
 name = "publisher"
 path = "bin/publisher.rs"
-
