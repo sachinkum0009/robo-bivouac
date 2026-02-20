@@ -1,0 +1,13 @@
+<package format="3">
+  <name>rb_cli</name>
+  <version>0.0.1</version>
+  <description>Cli package to manage RoboBivouac</description>
+  <maintainer email="sachinkumar.ar97@gmail.com">Sachin Kumar</maintainer>
+  <license>Apache 2.0</license>
+
+  <depend>rclrs</depend>
+
+  <export>
+    <build_type>ament_cargo</build_type>
+  </export>
+</package>

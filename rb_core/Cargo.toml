@@ -1,0 +1,15 @@
+[package]
+name = "rb_core"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rclrs = "0.7.0"
+std_msgs = "*"
+geometry_msgs = "*"
+nav2_msgs = "*"
+
+[[bin]]
+name = "publisher"
+path = "bin/publisher.rs"
+

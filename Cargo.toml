@@ -1,0 +1,8 @@
+# Workspace manifest for the `robo-bivouac` Rust crates
+# Put shared workspace configuration and list member crates here.
+
+[workspace]
+members = ["rb_cli", "rb_core"]
+
+# Use resolver = "2" for better feature handling across workspace crates
+resolver = "2"
