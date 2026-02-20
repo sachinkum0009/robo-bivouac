@@ -1472,6 +1472,10 @@ name = "nav_2d_msgs"
 version = "1.4.2"
 
 [[patch.unused]]
+name = "rb_cli"
+version = "0.1.0"
+
+[[patch.unused]]
 name = "rb_core"
 version = "0.1.0"
 
